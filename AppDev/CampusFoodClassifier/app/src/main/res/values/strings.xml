@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Campus Food Classifier</string>
+    <string name="toggle_camera">Toggle Camera</string>
+    <string name="detect_object">Detect Object</string>
+    <string name="back">Back</string>
+    <string name="Costa">Costa</string>
+    <string name="ComputerScience">Computer Science</string>
+    <string name="LocationActivityTitle">Select your location</string>
+    <string name="PredictionText">Prediction...</string>
+    <string name="TotalsTitle">Totals...</string>
+    <string name="Calories">Calories: </string>
+    <string name="Sugar">Sugar: </string>
+    <string name="Spending">Spending: </string>
+    <string name="location">Location</string>
+
+
+    <string name="Home">Home</string>
+    <string name="history_data">History Data goes here!</string>
+    <string name="history">History</string>
+</resources>

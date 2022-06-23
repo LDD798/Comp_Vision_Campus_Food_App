@@ -1,0 +1,9 @@
+Apple
+Banana
+CoffeeMedium
+CoffeeSmall
+CoffeeUOB
+CrispsBlue
+CrispsGreen
+Juice
+Orange
